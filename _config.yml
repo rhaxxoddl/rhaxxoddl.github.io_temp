@@ -113,17 +113,16 @@ author:
   location         : "Seoul, Republic Of Korea"
   email            : "rhaxxoddl@naver.com"
   links:
-    - label: "Email"
+    - label: "rhaxxoddl@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:rhaxxoddl@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-      # url: "https://twitter.com/"
+      url: "https://rhaxxoddl.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rhaxxoddl"
-    - label: "Instagram"
+    - label: "rhaxxoddl"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rhaxxoddl"
 
